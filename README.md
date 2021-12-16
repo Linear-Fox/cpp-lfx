@@ -1,4 +1,4 @@
-# Linear Fox | CPP - LFX
+# Linear Fox | CPP - LFX ![Version](https://img.shields.io/badge/version-Under%20Development-brightgreen)
  
 <img src="https://i.imgur.com/8QMupEu.png">
 
